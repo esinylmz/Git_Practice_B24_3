@@ -8,6 +8,10 @@ public class Second3 {
 
     public void m(int a){
 
+    }
+
+    public void m(String s){
 
     }
+
 }
